@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hello, I am a frontend developer from Bangladesh. I make beautiful frontend web applications.</p>
+<p align="left">Hello, I am a Web Developer from Bangladesh. I make beautiful web applications.</p>
 
 ###
 
