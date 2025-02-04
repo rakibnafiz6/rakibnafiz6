@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Frontend Developer</h2>
+<h2 align="left">Web Developer</h2>
 
 ###
 
@@ -57,6 +57,9 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/nafiz-al-rakib/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="52" height="40" alt="LinkedIn logo" />
+</a>
   <a href="https://www.facebook.com/nafiz.al.rakib/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
